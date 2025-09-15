@@ -24,6 +24,6 @@ dist-ssr
 *.sw?
 
 # helpers locais
-bora.cmd
+# bora.cmd
 fix-vite-lock.ps1
 
